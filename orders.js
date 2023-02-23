@@ -1,0 +1,40 @@
+const Orders=[
+    {
+        ProductName:"Drone",
+        ProductNumber:"7896",
+        paymentStatus:"Due",
+        shipping:"Pending",
+        details:"any"
+    },
+    {
+        ProductName:"Remote Car",
+        ProductNumber:"9996",
+        paymentStatus:"Completed",
+        shipping:"Declined"
+    },
+    {
+        ProductName:"Helicopter",
+        ProductNumber:"3806",
+        paymentStatus:"Due",
+        shipping:"Pending"
+    },
+    {
+        ProductName:"Jeep",
+        ProductNumber:"7896",
+        paymentStatus:"Due",
+        shipping:"Pending"
+    },
+    {
+        ProductName:"Car",
+        ProductNumber:"2996",
+        paymentStatus:"Due",
+        shipping:"Declined"
+    },
+    {
+        ProductName:"Drone",
+        ProductNumber:"8896",
+        paymentStatus:"Due",
+        shipping:"Done"
+    }
+
+]
